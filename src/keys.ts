@@ -2,7 +2,7 @@ export default {
     database: {
         host: 'localhost',
         user: 'root',
-        password: '6656223.charly',
+        password: '***',
         database: 'crud_ts',
     }
 }
